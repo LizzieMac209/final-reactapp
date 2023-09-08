@@ -6,7 +6,14 @@ export default function App() {
     <div className="App">
       <h1>Weather App</h1>
       <footer>
-        This project was coded by <a href="https://lizziemacfarlane-frntenddvlprprtflio.netlify.app/" target="_blank" >Lizzie Macfarlane</a> & is 🪷{" "}
+        This project was coded by{" "}
+        <a
+          href="https://lizziemacfarlane-frntenddvlprprtflio.netlify.app/"
+          target="_blank"
+        >
+          Lizzie Macfarlane
+        </a>{" "}
+        & is 🪷{" "}
         <a
           href="https://github.com/LizzieMac209/final-reactapp"
           target="_blank"
